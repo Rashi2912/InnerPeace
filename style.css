@@ -364,7 +364,7 @@ animation: pulse 2s infinite; /* Apply a pulsating animation, adjust duration as
 .cta{
 	margin: 100px auto;
 	width: 80%;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("image/enrol.webp");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url("image/enrol.jpg");
   background-position: center;
   background-size: cover;
   border-radius: 10px;
