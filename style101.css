@@ -10,7 +10,7 @@
   transition: .2s linear;
 }
 .container{
-  background-image: linear-gradient(rgba(4, 9, 30,0.7),rgba(4, 9, 30,0.7)),url("C:/Users/91964/Documents/web dev/image/sig.jpg");
+  background-image: linear-gradient(rgba(4, 9, 30,0.7),rgba(4, 9, 30,0.7)),url("image/sig.jpg");
 /*  background: linear-gradient(45deg,blueviolet,lightgreen);*/
   padding: 15px 9%;
   padding-bottom: 100px;
